@@ -1,4 +1,4 @@
-ros
+wild_thumper
 ===
 
-Misc code for robot operating system.
+Misc code for controlling the wild thumper with robot operating system.
